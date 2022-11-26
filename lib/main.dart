@@ -37,10 +37,3 @@ class TeamsApp extends StatelessWidget {
     );
   }
 }
-// return MaterialApp(
-//       title: "Teams",
-//       theme: ThemeData(primaryColor: const Color(0xff0CABDF)),
-//       initialRoute: homeRoute,
-//       debugShowCheckedModeBanner: false,
-//       onGenerateRoute: router!.generateRoute,
-//     );
